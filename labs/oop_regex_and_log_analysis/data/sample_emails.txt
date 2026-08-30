@@ -1,0 +1,6 @@
+student@example.test
+security.team+alerts@example.test
+name.surname@subdomain.example.test
+missing-at.example.test
+bad@domain
+spaces are@invalid.test

@@ -1,0 +1,1 @@
+"""Shodan API exercises."""
