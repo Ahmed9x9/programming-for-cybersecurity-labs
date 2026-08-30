@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.12,<3.13"
 authors = [{ name = "Ahmed Al-Shaikh" }]
 dependencies = [
-    "scapy==2.6.1",
+    "scapy==2.7.0",
     "shodan==1.31.0",
 ]
 
